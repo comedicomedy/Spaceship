@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/bsine/Dropbox/PC/Desktop/Libary Games/Learn Monogame/SpaceShip/Spaceship/Content/timerFont.spritefont</SourceFile>
+  <SourceTime>2017-11-18T13:07:30-05:00</SourceTime>
+  <DestFile>C:/Users/bsine/Dropbox/PC/Desktop/Libary Games/Learn Monogame/SpaceShip/Spaceship/Content/bin/DesktopGL/Content/timerFont.xnb</DestFile>
+  <DestTime>2022-07-09T22:33:08.7043169-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

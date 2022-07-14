@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4M5fQz3XoAvD96u47p0wAh6+iDtI70dNJtozMJQuzFClzOxWuTAhpzlhxJnphvH2y5RUu+NcJFuD1AG9xCwBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Libary Games\\Learn Monogame\\SpaceShip\\Spaceship\\Spaceship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsine\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\bsine\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\bsine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\bsine\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

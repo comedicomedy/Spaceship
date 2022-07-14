@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spaceship", "Spaceship.csproj", "{97F5C15D-B01D-46AB-B176-868BC8BA90BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F5C15D-B01D-46AB-B176-868BC8BA90BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F5C15D-B01D-46AB-B176-868BC8BA90BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F5C15D-B01D-46AB-B176-868BC8BA90BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F5C15D-B01D-46AB-B176-868BC8BA90BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
